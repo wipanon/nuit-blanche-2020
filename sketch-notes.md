@@ -1,12 +1,12 @@
-#PS. a queue is a queue, FIFO is FIFO.
+# PS. a queue is a queue, FIFO is FIFO.
 #Areas
   
 
-#Order
+# Order
   It should be geographic orientated and also magnetic-orientated to allow for offline access to the magnetometer,
   aka reason to make use of incredible capability in everyday phones.
 
-##Aeas are also curated
+## Aeas are also curated
 1. Creation: Destruction (GREEN ON MAP)
 2. Daniel Arsham (LIGHT BLUE ON MAP)
 3. Queens and Kings of Scarborough (Royal Blue)
