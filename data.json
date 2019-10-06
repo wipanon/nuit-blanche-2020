@@ -1,0 +1,450 @@
+{
+    "fort-york":{
+        "name": "creation: destruction",
+        "order": [[1,2,3,4,5,6,7,8,9], [25, 59, 60, 61, 62, 63, "A", "B", "C", "INFO"]],
+        "optimized": [],
+        "queue": [
+            {
+                "id": 1,
+                "name": "Anatomy of an Abattoir"                
+            },
+            {
+                "id":2,            
+                "name":"The Moment Sponsored by TAS"
+            },
+            {
+                "id":3,
+                "name":"Listen to the Land"
+            },
+            {
+                "id":4,
+                "name":"Everyone Wants a Free Baby!"
+            },
+            {
+                "id":5,
+                "name":"Hording"
+            },
+            {
+                "id":6,
+                "name":"Notes to Self"
+            },
+            {
+                "id":7,
+                "name":"Halcyon"
+            },
+            {
+                "id":8,
+                "name":"Detritus Sponsored By TAS"
+            },
+            {
+                "id":9,
+                "name":"LAB001 (aka Licht am Bau 001), sponsored by TAS"
+            },
+            {
+                "id": 25,
+                "name": "Nucleus",
+                "independent-project": true
+            },
+            {
+                "id":59,
+                "name":"Eulogy for the Coffin Factory",
+                "independent-project": true
+            },
+            {
+                "id":60,
+                "name":"Thermally Speaking",
+                "independent-project": true
+            },
+            {
+                "id":61,
+                "name":"Stronghold",
+                "independent-project": true
+            },
+            {
+                "id":62,
+                "name":"Daylighting(without you i would be lost)",
+                "independent-project": true
+            },
+            {
+                "id":63,
+                "name":"Sounding Bodies",
+                "independent-project": true
+            },
+            {
+                "id":"A",
+                "special-project": true,
+                "sponsor": "food",
+                "name":"Tim Hortons",
+                "address": "250 Fort York Blvd"
+            },
+            {
+                "id":"B",
+                "special-project": true,
+                "sponsor": "food",
+                "name":"Kind(r) snacks",
+                "address": "250 Fort York Blvd"
+            },
+            {
+                "id":"C",
+                "special-project": true,
+                "sponsor": "real-estate",
+                "name":"Concord Gardner Lands",
+                "address": "250 Fort York Blvd"
+            }
+        ]
+    },
+
+    "downtown":{
+        "name": "Daniel Arsham",
+        "order": [[10,20, 21, 66], ["INFO", 22, 67]],
+        "queue": [
+            {
+                "id": 20,
+                "name": "Peace to the Past, Reach for the Future",
+                "major-institutions": true
+            },
+
+            {
+                "id": 21,
+                "name": "Chasing Red(us)",
+                "major-institutions": true
+            },
+
+            {
+                "id": 22,
+                "name": "On Thin Ice",
+                "major-institutions": true
+            },
+
+            {
+                "id": 90,
+                "name": "Transformation",
+                "major-institutions": true
+            },
+
+            {
+                "id": 28,
+                "name": "Buit for Art",
+                "major-institutions": true
+            },
+
+            {
+                "id": 31,
+                "name": "Unearthed",
+                "major-institutions": true
+            },
+
+            {
+                "id": 32,
+                "name": "Among All These Tundras",
+                "major-institutions": true
+            },
+
+            {
+                "id": 33,
+                "name": "Kaleidoscope: A Social Media Trinity",
+                "major-institutions": true
+            },
+
+            {
+                "id": 34,
+                "name": "Dawn Chorus/Evensong",
+                "major-institutions": true
+            },
+
+            {
+                "id": 64,
+                "name": "EXIT(us)",
+                "major-institutions": true
+            },
+
+            {
+                "id": 65,
+                "name": "AND THINGS ARE CHANGING / ET LES CHOSES CHANGENT",
+                "major-institutions": true
+            },
+            
+            {
+                "id": 66,
+                "name": "Project GUNK",
+                "major-institutions": true
+            },
+
+            {
+                "id": 67,
+                "name": "space time",
+                "major-institutions": true
+            },
+
+            {
+                "id": 68,
+                "name": "call my name",
+                "major-institutions": true
+            },
+
+            {
+                "id": 69,
+                "name": "XSITE",
+                "major-institutions": true
+            },
+
+            {
+                "id": 70,
+                "name":"Home is Where the Heart Was",
+                "major-institutions": true
+            },
+
+            {
+                "id": "D",
+                "name": "Addidas Creators: After Hours",
+                "special-project": true,
+                "sponsor": "experiential activations"
+            },
+            {
+                "id": "E",
+                "name": "Monument to ArcticPhenomena",
+                "special-project": true,
+                "sponsor": "experiential activations"
+            },
+            {
+                "id": "F",
+                "name": "Meet Your Match",
+                "special-project": true,
+                "sponsor": "experiential activations"
+            },
+            {
+                "id": "G",
+                "name": "Bands in the Sand",
+                "special-project": true,
+                "sponsor": "experiential activations"
+            },
+            {
+                "id": "H",
+                "name": "Tim Hortons",
+                "special-project": true,
+                "sponsor": "experiential activations"
+            }
+        ]
+    },
+
+    "scarborough":{
+        "name": "QUEENS AND KINGS OF SCARBOROUGH",
+        "order": [],
+        "queue": {
+
+        }
+    },
+
+    "bloor-yorkville":{
+        "name": "YORKVILLE",
+        "order": [53, [51, 52], [29, 54, 55], ["INFO", 30, 57, 58]],
+        "queue": [
+            {
+                "id":29,
+                "name":"Classic Horror and Sc-Fi Art from the Kirk Hammett Colecton",
+                "major-institutions": true
+            },
+            
+            {
+                "id":30,
+                "name":"Desire, Design and Depresson Era Footwear",
+                "major-institutions": true,
+                "independent-project": true
+            },
+
+            {
+                "id":51,
+                "name":"Aquarius",            
+                "independent-project": true
+            },
+
+            {
+                "id":52,
+                "name":"Buried Rivers",
+                "independent-project": true
+            },
+
+            {
+                "id":53,
+                "name":"21st-century craft",
+                "independent-project": true
+            },
+
+            {
+                "id":54,
+                "name":"Non-Dance Dance Club",
+                "independent-project": true
+            },
+
+            {   "id":55,
+                "name":"Draft 2, ...",
+                "independent-project": true
+            },
+
+
+            {
+                "id":57,
+                "name":"Trillionth 1",
+                "independent-project": true
+            },
+
+            {
+                "id":58,
+                "name":"Morlyama's Continum",
+                "independent-project": true
+            }
+        
+        ]
+    },
+
+    "don-mills":{
+        "name": "Don Mills",
+        "order": [[23, "INFO"], ["INFO", 78, 39, 79]],
+        "queue":[
+            {
+                "id": 23,
+                "name": "Director X: Life of the Earth (by Gateway Blvd)",
+                "special-project": true
+            },
+
+            {
+                "id": 39,
+                "name": "Arrivals and Encounters: Sama",
+                "special-project":true
+            },
+
+            {
+                "id":78,
+                "name": "Tawazun | Balance",
+                "special-project": true
+            }
+        ]
+    },
+
+
+    "sterling-road":{
+        "name": "Sterling Road",
+        "order": [[41, 43, 44], "INFO", 26, [42, 45]],
+        "queue":[
+            {
+                "id": 26,
+                "name": "It All Makes Sense",
+                "major-institution":true
+            },
+
+            {
+                "id":41,
+                "name":"Overgrown",
+                "special-projects": true
+            },
+
+            {
+                "id":42, 
+                "name":"Equilibrium",
+                "special-projects": true
+            },
+            {
+                "id":43,
+                "name":"Standing Still(Walking Composition)", 
+                "special-projects": true
+            },
+            {
+                "id":44,
+                "name":"powerline", 
+                "special-projects": true
+            },
+            {
+                "id":45,
+                "name":"CONSTRUCTION AHEAD",
+                "special-projects": true
+            }
+        ]
+    },
+
+    "west-queen-west":{
+        "name": "West Queen West",
+        "order": [],
+        "queue":[]
+    },
+
+
+    "danforth-east":{       
+        "name": "Danforth East",
+        "order": ["INFO", 77, 38],
+        "queue":[
+            {
+                "id":38,
+                "name": "Meral Pasha with the Truth & Dare Project",
+                "major-institution": true
+            },
+
+            {
+                "id": 77,
+                "name":"Tile-Scape",
+                "special-projects": true
+            }
+        ]        
+    },
+
+    "waterfront": {
+        "name": "Waterfront",
+        "order": [["INFO", 71, [35, 40, 36], 72], [73, [37, 74, 75, 76]]],
+        "queue":[
+            {
+                "id":35,
+                "name": "Vestival of Cool: The Arctic",
+                "major-institution": true,
+            },
+
+            {
+                "id":36,
+                "name": "Up All Night @ the powerplant",
+                "major-institution": true
+            },
+
+            {
+                "id":37,
+                "name": "Immersed",
+                "major-institution": true
+            },
+
+            {
+                "id":40,
+                "name": "Ravisar (Toronto Biennial of Art)",
+                "major-institution": true
+            },
+
+            {
+                "id":71,
+                "name": ,
+                "special-projects": true
+            },
+
+            {
+                "id":72,
+                "name": "School Diary",
+                "special-projects": true
+            },
+
+            {
+                "id":73,
+                "name": "Poly",
+                "special-projects": true
+            },            {
+                "id":74,
+                "name": "Declassified Hsistory: Archiving Latin America",
+                "special-projects": true
+            },
+            {
+                "id":75,
+                "name": "ARTSTAR!!!",
+                "special-projects": true
+            },
+            {
+                "id":76,
+                "name": "Borrachero",
+                "special-projects": true
+            }
+        ] 
+    }
+}
