@@ -43,32 +43,32 @@
             {
                 "id": 25,
                 "name": "Nucleus",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":59,
                 "name":"Eulogy for the Coffin Factory",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":60,
                 "name":"Thermally Speaking",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":61,
                 "name":"Stronghold",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":62,
                 "name":"Daylighting(without you i would be lost)",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":63,
                 "name":"Sounding Bodies",
-                "independent-project": true
+                "special-project": true
             },
             {
                 "id":"A",
@@ -229,10 +229,125 @@
 
     "scarborough":{
         "name": "QUEENS AND KINGS OF SCARBOROUGH",
-        "order": [],
-        "queue": {
+        "order": [24],
+        "queue": [
+            {
+                "name": "Ephemeral Artifacts",
+                "id": 24,
+                "special-project": true
+            }, 
 
-        }
+            {
+                "name": "Tim Hortons",
+                "id": "J",
+                "special-project": false
+            },
+
+            {
+                "name": "Scarborough Royalty",
+                "id": 11                
+            },
+
+            {
+                "name": "...three king weep...",
+                "id":12
+            }
+
+            {
+                "name": "The Big Feminist Game Show",
+                "id": 13
+            },
+
+            {
+                "name": "The Miss Chief Eagle Testickle Picture Show",
+                "id": 14
+            },
+
+            {
+                "name": "Tepknuset",
+                "id": 15
+            },
+
+            {
+                "name": "Water Shrine",
+                "id": 16
+            },
+
+            {
+                "name": "ReConnected STC",
+                "id": 17
+            },
+
+            {
+                "name": "Handshack",
+                "id": 18
+            },
+
+            {
+                "name": "Scarborough Made",
+                "id": 19
+            },
+
+            {
+                "name": "PostScript",
+                "special-project": true,
+                "id": 47
+            },
+
+            {
+                "name": "From Boys to Men: The unearthing of a poorly structured identity",
+                "special-project": true,
+                "id": 80
+            },
+
+            {
+                "name": "Where Are We Now?",
+                "special-project": true,
+                "id": 81
+            },
+
+            {
+                "name": "DA'IQ FLGHT",
+                "special-project": true,
+                "id": 82
+            },
+
+            {
+                "name": "Remixing the Night",
+                "special-project": true,
+                "id": 83
+            },
+
+            {
+                "name": "UNFOLDING",
+                "special-project": true,
+                "id": 84
+            },
+
+            {
+                "name": "Journée",
+                "special-project": true,
+                "id": 85
+            },
+
+            {
+                "name": "Visualizing the East Side: A STEAM Project",
+                "special-project": true,
+                "id": 86
+            },
+
+            {
+                "name": "Revolutions",
+                "special-project": true,
+                "id": 88
+            },
+
+            {
+                "name": "Below the City",
+                "special-project": true,
+                "id": 89
+            }
+        ]        
     },
 
     "bloor-yorkville":{
@@ -435,7 +550,7 @@
             {
                 "id":35,
                 "name": "Vestival of Cool: The Arctic",
-                "major-institution": true,
+                "major-institution": true
             },
 
             {
@@ -470,7 +585,7 @@
             
             {
                 "id":73,
-                "name": "Declassified Hsistory: Archiving Latin America",
+                "name": "Declassified History: Archiving Latin America",
                 "special-projects": true
             },
 
