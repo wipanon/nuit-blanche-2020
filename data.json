@@ -363,8 +363,50 @@
 
     "west-queen-west":{
         "name": "West Queen West",
-        "order": [],
-        "queue":[]
+        "order": [56, 47, 48, [49, 46, 27, "INFO"], 50],
+        "queue":[
+            {
+                "id": 27,
+                "name": "Fly by Night (Various Artists)",
+                "major-insitution": true
+            },
+
+            {
+                "id": 46,
+                "name": "The Artist Protest Resistance",
+                "special-project": true
+            },
+
+            {
+                "id": 47,
+                "name": "PostScript",
+                "special-project": true
+            },
+
+            {
+                "id": 48,
+                "name": "UNDER PRESSURE",
+                "special-project": true
+            },
+
+            {
+                "id": 49,
+                "name": "On and on and on and on",
+                "special-project": true
+            },
+
+            {
+                "id": 50,
+                "name": "An Infinite Loop in the Virtual Plaza",
+                "special-project": true
+            },
+
+            {
+                "id": 56,
+                "name": "Wetworlds",
+                "special-project": true
+            }
+        ]
     },
 
 
@@ -416,30 +458,34 @@
 
             {
                 "id":71,
-                "name": ,
-                "special-projects": true
-            },
-
-            {
-                "id":72,
                 "name": "School Diary",
                 "special-projects": true
             },
 
             {
-                "id":73,
+                "id":72,
                 "name": "Poly",
                 "special-projects": true
-            },            {
-                "id":74,
+            },         
+            
+            {
+                "id":73,
                 "name": "Declassified Hsistory: Archiving Latin America",
                 "special-projects": true
             },
+
             {
-                "id":75,
+                "id":74,
                 "name": "ARTSTAR!!!",
                 "special-projects": true
             },
+
+            {
+                "id":75,
+                "name": "Mønochef",
+                "special-projects": true
+            },
+
             {
                 "id":76,
                 "name": "Borrachero",
